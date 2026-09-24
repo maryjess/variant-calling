@@ -1,4 +1,4 @@
-scikit-learn==1.4.1
+scikit-learn
 pandas
 numpy
 joblib>=1.2.0
